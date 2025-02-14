@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME: Sitiroj
+# STUDENT ID: Hemlakpairoge
